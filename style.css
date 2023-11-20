@@ -1,0 +1,8 @@
+.lovely {
+    border-color: purple;
+    margin: 20px;
+}
+
+.lovely p:nth-child(2){
+    text-align: justify;
+}
